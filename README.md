@@ -11,3 +11,8 @@ La práctica ha sido realizada individualmente por **Jiaqian Lin**.
 * **websraping/methods.py**: código que contiene la implementación de los metodos utilizados para el scraping.
 * **Practica-1.pdf**: contiene respuestas de las preguntas.
 * **Tom_Hanks_movies.csv**: el conjunto de datos generado.
+
+## Recursos
+1. Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
+2. Masip, D. (2010). El lenguaje Python. Editorial UOC.
+3. Tutorial de Github https://guides.github.com/activities/hello-world.
